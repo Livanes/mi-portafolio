@@ -335,6 +335,7 @@ section:not(.hero) {
 }
 
 .footer-content h2 {
+  text-align: center;
   margin-top: 20px;
   font-size: 3em;
 }
