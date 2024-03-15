@@ -356,6 +356,10 @@ section:not(.hero) {
   font-size: 1.5em;
 }
 
+.sotial-network {
+  color: #66FF99;
+}
+
 @media screen and (max-width: 768px) {
   .nav__menu {
     position: fixed;
