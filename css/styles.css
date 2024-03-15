@@ -361,7 +361,6 @@ section:not(.hero) {
     position: fixed;
     background-color: #222;
     color: white;
-    border: 1px solid red;
     padding: 60px 35px;
     top: 85px;
     right: -100%;
